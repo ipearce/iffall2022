@@ -1,0 +1,138 @@
+body{
+    background-color: rgb(255, 250, 242);
+}
+html{
+    font-family: 'Raleway', sans-serif;
+    font-size: 18pt;
+    margin: 10%;
+}
+
+h1:hover{
+    color:rgb(75, 54, 43); 
+    text-transform: lowercase;
+}
+
+p:hover{
+    color: rosybrown;
+}
+
+h2:hover{
+    color: rosybrown;
+}
+
+h3:hover{
+    color:rgb(75, 54, 43); 
+}
+
+h1{
+    text-align: center;
+    color:rgb(75, 54, 43);
+    font-size: 80pt;
+    padding: 0;
+    margin: 0;
+    margin-top: -9%;
+}
+
+.header{
+    float: left;
+}
+
+.styling{
+    float: right;
+}
+
+h2{
+    padding-top: 2%;
+    color:rgb(75, 54, 43);
+    padding-bottom: -2%;
+}
+
+h3{
+    color: rosybrown;
+}
+
+p{
+    padding-bottom: 5%;
+    color: rgb(98, 90, 79);
+}
+
+.font-weight-normal p{
+font-weight: normal;
+}
+
+
+
+.font-weight-1 {
+    font-weight: 100;
+}
+
+.font-weight-2 p{
+    font-weight: 200;
+}
+
+.font-weight-3 p{
+    font-weight: 300;
+}
+
+.font-weight-4 p{
+    font-weight: 400;
+}
+
+.font-weight-5 p{
+    font-weight: 500;
+}
+
+.font-weight-6 p{
+    font-weight: 600;
+}
+
+.font-weight-7 p{
+    font-weight: 700;
+}
+
+.font-weight-8 p{
+    font-weight: 800;
+}
+
+.font-weight-9 p{
+    font-weight: 900;
+}
+
+.font-style-normal p {
+    font-style: normal;
+}
+.font-style-italic p {
+    font-style: italic;
+}
+
+.font-space-3em{
+    letter-spacing: .3em;
+}
+
+.font-space-06em p {
+    letter-spacing: -.06em;
+}
+
+.text-dec-underline p{
+    text-decoration: underline;
+}
+
+.text-dec-line-through p{
+    text-decoration: line-through;
+}
+
+.text-dec-overline p{
+    text-decoration: overline;
+}
+
+.text-trans-upper p{
+    text-transform: uppercase;
+}
+
+.text-trans-lower p{
+    text-transform: lowercase;
+}
+
+.text-trans-cap p{
+    text-transform: capitalize;
+}

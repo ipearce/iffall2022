@@ -23,19 +23,5 @@ html { font-size: 12pt; }
     }
 
 
-    #stretchable-grid-items ul{
-      list-style: none;
-    }
-
-    #stretchable-grid-items li{
-      width: 100%;
-      
-    }
-
-    @media screen and (min-width 480px){
-      #stretchable-grid-items li{
-        width: 50%;
-      }
-    }
 
   

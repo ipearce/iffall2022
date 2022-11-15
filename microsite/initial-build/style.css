@@ -1,0 +1,93 @@
+html{
+font-family: 'PT Serif', serif;
+background-color: #3C3B6D;
+
+}
+
+img{
+    width:600px;
+    height: auto;
+}
+
+body{
+    margin-top: 0;
+}
+
+h1{
+    font-size: 4rem;
+    color: white;
+    margin-top: 0;
+
+}
+
+h2{
+    font-size: 3rem;
+    color: white;
+
+}
+
+
+p{
+    font-size: 2rem;
+    color: white;
+}
+
+nav{
+position: relative;
+top: 0;
+margin-top: 0;
+display: flex;
+align-items: center;
+justify-content: center;
+float: left;
+background-color: black;
+}
+
+ #icon{
+    width: auto;
+    height: 100px;
+    float: left;
+   vertical-align: middle;
+}
+
+#logo{
+    width:auto;
+    height:200px;
+    padding-top: 0;
+    margin-top:0;
+}
+
+nav a{
+    padding-right: 45px;
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+nav #homebutton{
+    padding-left:100px ;
+}
+
+.home #intro ul{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.home #intro li{
+    width: 50%;
+    
+  }
+
+  .heroimages{
+    width: 400px;
+    height: auto;
+  }
+
+
+
